@@ -232,7 +232,7 @@ erp-anomaly-detection/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/erp-anomaly-detection.git
+git clone https://github.com/devanshiddc2608/erp-anomaly-detection
 cd erp-anomaly-detection
 
 # 2. Create virtual environment
